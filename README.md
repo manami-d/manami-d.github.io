@@ -1,3 +1,8 @@
-# manami-website
+# manami's portfolio
 
-This is a HTML practice website about me.
+This is a portfolio website containing:
+- About Me
+- Skills
+- Experience
+- Projects
+- Contact
