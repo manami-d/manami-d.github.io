@@ -6,3 +6,8 @@ This is a portfolio website containing:
 - Experience
 - Projects
 - Contact
+
+and using:
+- HTML
+- CSS
+- JavaScript
