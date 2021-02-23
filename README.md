@@ -1,4 +1,4 @@
-# manami's portfolio
+# Manami's portfolio website
 
 ## Description 
 This is a portfolio website (under construction) containing:
